@@ -59,6 +59,6 @@ A simple C# console app that retrieves the current temperature and "feels like" 
 
 ##  Demo
 
-![WeatherApp Demo](assets/demo.gif)
+![WeatherApp Demo](Assets/demo.gif)
 
 ---
